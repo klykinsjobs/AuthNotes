@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AuthNotes/AuthNotes.csproj" />
+  <Project Path="AuthNotesTests/AuthNotesTests.csproj" Id="34ad76d3-8f8e-4ee5-a2eb-cf778399e26c" />
+</Solution>
